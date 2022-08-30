@@ -1,24 +1,26 @@
-# todo
+# 项目截图
 
-## Project setup
+![图片alt](./t1.png "图片title")
+
+## 项目搭建
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 编译程序运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包项目
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 修复配置
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 自定义配置
+See [配置参考](https://cli.vuejs.org/config/).

@@ -2,10 +2,10 @@
   <div class="navContent">
     <div class="navBox">
     <ul class="topNav">
-      <li>Anyview System</li>
+      <li>课程管理系统</li>
       <li>
         <ul>
-          <li><i class="iconfont avat">&#xebac;</i>Jay Chou</li>
+          <li><i class="iconfont avat">&#xebac;</i>admin</li>
           <li><i class="iconfont">&#xe652;</i> 修改密码</li>
           <li><i class="iconfont">&#xe655;</i> 退出</li>
         </ul>
