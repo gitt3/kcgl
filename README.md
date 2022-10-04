@@ -1,7 +1,12 @@
+
+
 # 项目截图
 
 ![图片alt](./t1.png "图片title")
 
+##技术栈
+
+vue2 + vuex + vue-router + element-ui
 ## 项目搭建
 ```
 npm install
